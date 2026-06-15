@@ -92,6 +92,7 @@ header{
     color:#1f2937;
     margin-bottom:50px;
 }
+
 .cards{
     display:flex;
     justify-content:center;
@@ -102,6 +103,8 @@ header{
 .card p{
     margin-top:10px;
     color:#4b5563;
+    text-align:center;
+    text-decoration-line: underline;
 }
 
 .box{
