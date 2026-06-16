@@ -9,7 +9,6 @@ html{
 body{
     font-family:Roboto, sans-serif;
 }
-
 ul{
     list-style:none;
 }
@@ -124,6 +123,9 @@ header{
 
 .card:hover{
     transform:translateY(-10px);
+}
+.name{
+    align-self:auto
 }
 .box{
     width:220px;
